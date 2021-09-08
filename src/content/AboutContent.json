@@ -1,0 +1,26 @@
+{
+  "title": "Why Decentralized Government?",
+  "text": "It allows for the exchange of data freely where the subject of the data is provably in control of who can access that data.",
+  "section": [
+    {
+      "title": "Have more transparency",
+      "content": "It allows for the exchange of data to be in the open increasing accountabilty for both citizens and govermental entities.",
+      "icon": "visibility_identity.svg"
+    },
+    {
+      "title": "Have more security",
+      "content": "Using cryptography we can assure that the data has not been tampered with and it will be immutable.",
+      "icon": "secure_identity.svg"
+    },
+    {
+      "title": "Control your data.",
+      "content": "It allows for individual to control their data and by requiering consent or dissent every time an entity wants to access their data.",
+      "icon": "verified_identity.svg"
+    },
+    {
+      "title": "Save time on procedures",
+      "content": "Using a platform like this will enable to streamline workflows and request for citizen services.",
+      "icon": "identity_time.svg"
+    }
+  ]
+}
